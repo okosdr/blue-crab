@@ -1,0 +1,45 @@
+{
+  "name": "blue-crab",
+  "version": "1.0.0",
+  "description": "Blue Clawd crab tamagotchi for the dsh-TUI terminal: sixel animations for every tool, music dancing, English UI. Reapplied after dsh-TUI updates.",
+  "type": "module",
+  "bin": {
+    "blue-crab": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "frames",
+    "music-watcher.ps1",
+    "README.md",
+    "NOTICE.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "postinstall": "node bin/cli.js install --quiet"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-tui",
+    "deepseek-harness",
+    "clawd",
+    "crab",
+    "mascot",
+    "tamagotchi",
+    "terminal",
+    "sixel"
+  ],
+  "author": "okosdr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okosdr/blue-crab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/okosdr/blue-crab/issues"
+  },
+  "homepage": "https://github.com/okosdr/blue-crab#readme"
+}
