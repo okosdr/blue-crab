@@ -1,4 +1,4 @@
-# blue-crab 🦀
+# blue-clawd-crab
 
 A blue **Clawd** tamagotchi that lives above the prompt in
 [dsh-TUI](https://github.com/ccch1mneyyy/dsh-tui) (DeepSeek Harness terminal).
@@ -7,14 +7,8 @@ It stands above the input line as a real sixel image (not ASCII), blinks while
 idle, switches pose for every tool the agent runs, celebrates long sessions, and
 dances when music is playing on Windows.
 
-```
-   ▄▄▄▄▄▄▄▄
-   ██ ██▐█▌ ██      ← 24×4 cells of real pixels (sixel)
-    ▀ ▀  ▀ ▀
-· Working on it … · 3s · ↑8.1k · ↓120 tokens
-```
 
-## What it looks like
+ What it looks like
 
 <table>
   <tr>
