@@ -132,4 +132,9 @@ See [NOTICE.md](NOTICE.md) for the licensing details of the artwork.
 
 ## License
 
-Code: MIT (see [LICENSE](LICENSE)). Artwork: see [NOTICE.md](NOTICE.md).
+Copyright (c) — the author claims no rights over the animation art.
+
+Code (`bin/`, `lib/`): MIT, see [LICENSE](LICENSE).
+Animation art: from [MyClawd](https://github.com/CodeChrisB/MyClawd) by
+**CodeChrisB** — personal, non-commercial use; see [NOTICE.md](NOTICE.md).
+

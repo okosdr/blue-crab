@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 okosdr
+Copyright (c)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,9 +22,24 @@ SOFTWARE.
 
 ---
 
-The pixel-art base ("Clawd", 12x8 grid) is a fan recolour of Anthropic's
-Claude Code crab mascot, as recovered by the ClawdMoji project
-(https://github.com/afspies/ClawdMoji, MIT). Anthropic keeps the rights to
-the character; this package is not affiliated with or endorsed by Anthropic.
+The MIT grant above covers the code in `bin/` and `lib/`. The author claims no
+copyright over the animated artwork.
 
-dsh-TUI itself is by ccch1mneyyy and contributors (MIT).
+## Credits
+
+The animated pixel-art of Clawd used by this project comes from **MyClawd** by
+**CodeChrisB** (https://github.com/CodeChrisB/MyClawd, live at
+https://codechrisb.github.io/MyClawd/). The PNG frames in `frames/` and the GIFs
+in `docs/animations/` are converted from that project's animation sets (cropped,
+background removed, crab recoloured blue). MyClawd is a fan project and ships no
+license, so the artwork is included here for personal, non-commercial use only
+— ask the author before redistributing it.
+
+"Clawd" is the mascot of Anthropic's Claude Code. Anthropic keeps the rights to
+the character; this package is a fan project, not affiliated with or endorsed by
+Anthropic.
+
+dsh-TUI itself is by ccch1mneyyy and contributors (MIT). DeepSeek Harness
+(`@deepseek-ai/dsh`) is by DeepSeek.
+
+See `NOTICE.md` for details.
