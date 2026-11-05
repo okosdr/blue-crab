@@ -59,7 +59,7 @@ npm install -g github:okosdr/blue-crab
 blue-crab install
 ```
 
-From npm (once published):
+From npm:
 
 ```powershell
 npm install -g blue-crab
