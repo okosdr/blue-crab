@@ -14,6 +14,23 @@ dances when music is playing on Windows.
 · Working on it … · 3s · ↑8.1k · ↓120 tokens
 ```
 
+## What it looks like
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/animations/idle.gif" width="260"><br><sub>idle — stands and blinks</sub></td>
+    <td align="center"><img src="docs/animations/search.gif" width="260"><br><sub>search — greps with a globe</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/animations/writing.gif" width="260"><br><sub>writing — edits code</sub></td>
+    <td align="center"><img src="docs/animations/celebrate.gif" width="260"><br><sub>celebrate — after a 5-minute run</sub></td>
+  </tr>
+</table>
+
+The GIFs above are the source art from
+[MyClawd](https://github.com/CodeChrisB/MyClawd); in the terminal they are
+painted as blue sixel frames above the prompt.
+
 ## Features
 
 - **Real pixels, not characters** — frames are painted with the terminal's
