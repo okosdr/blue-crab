@@ -8,7 +8,7 @@ idle, switches pose for every tool the agent runs, celebrates long sessions, and
 dances when music is playing on Windows.
 
 
- What it looks like
+## What it looks like
 
 <table>
   <tr>
@@ -21,9 +21,9 @@ dances when music is playing on Windows.
   </tr>
 </table>
 
-The GIFs above are the source art from
-[MyClawd](https://github.com/CodeChrisB/MyClawd); in the terminal they are
-painted as blue sixel frames above the prompt.
+These are this project's blue frames (art based on
+[MyClawd](https://github.com/CodeChrisB/MyClawd)), exported as GIFs; in the
+terminal the very same frames are painted as sixel images above the prompt.
 
 ## Features
 
